@@ -20,9 +20,14 @@
 <!-- Dropdown -->
 <details>
   <summary>👩🏻‍💻 More about me</summary>
+ <br>
   - 💬 As a tech enthusiast, I'm really passionate about software quality and testing. I’m looking to apply and grow my skills in environments that value innovation. I have experience with gathering requirements, writing user stories, and managing backlogs, including prioritizing, refining, estimating, and maintaining them. Plus, I’m skilled in tracking project lifecycles and creating documentation like test plans.
+ <br>
+ <br>
   - I have a degree in veterinary medicine 🐾🩺, I love animals, and every day I strive to discover how technology can improve their lives.
+ <br>
   - I am 27 y 🎂
+ <br>
   - I love video games. 🎮
 </details>
 
