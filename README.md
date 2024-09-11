@@ -15,10 +15,7 @@
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Automated Testing and Machine Learning.
 </p>
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
-</p>
+
 
 <!-- Dropdown -->
 <details>
@@ -27,6 +24,16 @@
   - 💬 As a tech enthusiast, I'm really passionate about software quality and testing. I’m looking to apply and grow my skills in environments that value innovation. I have experience with gathering requirements, writing user stories, and managing backlogs, including prioritizing, refining, estimating, and maintaining them. Plus, I’m skilled in tracking project lifecycles and creating documentation like test plans.
 </details>
 
+
+<br>
+<div>
+
+<p align="left">
+  💌 Get in touch with me: ⤵️
+</p>
+
+
+</div>
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayaraluiza/)
@@ -41,6 +48,17 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
      <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     
+    
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  
+  </div>
     
   </div>
   
