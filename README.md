@@ -49,16 +49,7 @@
     <img align="center" alt="Python" height="30" width="40" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
      <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      
-    
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  
-  </div>
+   
     
   </div>
   
